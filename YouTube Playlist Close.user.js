@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         YouTube Playlist Close
-// @version      3.1
+// @version      3.2
 // @description  Allow quick closing of playlists
 // @author       AjaxGb, Trainmaster2
-// @match        http*://www.youtube.com/*
-// @run-at       document-start
-// @noframes
 // @downloadURL  https://github.com/Trainmaster2/YouTube-Playlist-Close/raw/master/YouTube%20Playlist%20Close.user.js
 // @updateURL    https://github.com/Trainmaster2/YouTube-Playlist-Close/raw/master/YouTube%20Playlist%20Close.user.js
+// @match        http*://www.youtube.com/*
+// @run-at       document-start
+// @grant        none
+// @noframes
 // ==/UserScript==
 
 (function() {
